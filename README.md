@@ -828,6 +828,7 @@
     + [setapp Front End](http://setapp.me/expertise/development-front_end): Discover apps, tools, news and tips
     + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
     + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/) by Roundarch Isobar
+    + [Devlinks](http://iwantaneff.in/link/) by David Higgins
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
