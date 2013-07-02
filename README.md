@@ -153,6 +153,7 @@
             + [The Ultimate Guide to Writing jQuery Plugins](http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
             + [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
+            + [Handpicked jQuery Plugins](http://iwantaneff.in/repo/)
         + [dojo](http://dojotoolkit.org/)
             + [Github](https://github.com/dojo/dojo)
             + [Documentation](http://dojotoolkit.org/documentation/)
